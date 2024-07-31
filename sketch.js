@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(430, 932, WEBGL);
+  createCanvas(1920, 1080, WEBGL);
   describe("a white rectangle rotating on Y axis");
 }
 
